@@ -4,7 +4,7 @@ Sadu
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Happy Valentine My Love 💖</title>
+  <title>Happy Valentine My Love  sadikshya puku 💖</title>
   <style>
     body {
       margin: 0;
@@ -123,7 +123,7 @@ button.secondary {
 <!-- Slide 3 (Photos) -->
 <div class="slide">
   <h1>Us 🥰</h1>
-  <div class="photo">Add our photo here</div>
+  <div class="photo"> </div>
   <div class="photo">Add our photo here</div>
   <div class="buttons">
     <button class="secondary" onclick="prev()">⬅ Back</button>
